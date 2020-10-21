@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\door\OpenDoor.js">
+    <Files>
+      <File FileName="Assets\andrea's room\key paper.js" Line="1" Column="1" />
+      <File FileName="Assets\andrea's room\closet's key.js" Line="1" Column="1" />
+      <File FileName="Assets\april's room\musicbox paper.js" Line="1" Column="1" />
+      <File FileName="Assets\april's room\musicbox.js" Line="1" Column="1" />
+      <File FileName="Assets\living room\andrea's key.js" Line="20" Column="33" />
+      <File FileName="Assets\living room\hair.js" Line="1" Column="1" />
+      <File FileName="Assets\door\OpenDoor.js" Line="27" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

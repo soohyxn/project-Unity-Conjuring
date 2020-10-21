@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Prologue\prologue4.js">
+    <Files>
+      <File FileName="Assets\Prologue\prologue4.js" Line="29" Column="71" />
+      <File FileName="Assets\Hope\Timekeeper.js" Line="1" Column="1" />
+      <File FileName="Assets\Prologue\prologue4.js" Line="1" Column="1" />
+      <File FileName="Assets\Prologue\subtitle.js" Line="1" Column="1" />
+      <File FileName="Assets\Prologue\Scream.js" Line="1" Column="1" />
+      <File FileName="Assets\Prologue\Prologue1.js" Line="1" Column="1" />
+      <File FileName="Assets\Hope\ResultScreen.js" Line="1" Column="1" />
+      <File FileName="Assets\Hope\andrea.js" Line="1" Column="1" />
+      <File FileName="Assets\Hope\cindy.js" Line="1" Column="1" />
+      <File FileName="Assets\Hope\nancy.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

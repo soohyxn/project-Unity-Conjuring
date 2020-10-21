@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 9f925b09def09ab46a44f3e8e93b9638
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 6_mesh0_0.1_16_16
+    100004: 6_mesh1_0.1_16_16
+    100006: 6_mesh2_0.1_16_16
+    100008: 6_mesh3_0.1_16_16
+    100010: 6_mesh7_0.1_16_16
+    100012: 7_mesh4_0.1_16_16
+    100014: 7_mesh5_0.1_16_16
+    100016: 7_mesh6_0.1_16_16
+    100018: Armature
+    100020: ball l
+    100022: ball l_end
+    100024: ball r
+    100026: ball r_end
+    100028: breast l
+    100030: breast l_end
+    100032: breast r
+    100034: breast r_end
+    100036: brow mid
+    100038: brow mid l
+    100040: brow mid l_end
+    100042: brow mid r
+    100044: brow mid r_end
+    100046: brow mid_end
+    100048: brow outer l
+    100050: brow outer l_end
+    100052: brow outer r
+    100054: brow outer r_end
+    100056: calf l
+    100058: calf r
+    100060: calf twist 01 l
+    100062: calf twist 01 l_end
+    100064: calf twist 01 r
+    100066: calf twist 01 r_end
+    100068: cheek inner l
+    100070: cheek inner l_end
+    100072: cheek inner r
+    100074: cheek inner r_end
+    100076: clavicle l
+    100078: clavicle r
+    100080: eye l
+    100082: eye lid lower mid l
+    100084: eye lid lower mid l_end
+    100086: eye lid lower mid r
+    100088: eye lid lower mid r_end
+    100090: eye lid upper mid l
+    100092: eye lid upper mid l_end
+    100094: eye lid upper mid r
+    100096: eye lid upper mid r_end
+    100098: eye r
+    100100: faceAttach
+    100102: foot l
+    100104: foot r
+    100106: hair back l 01
+    100108: hair back l 02
+    100110: hair back l 03
+    100112: hair back l 04
+    100114: hair back l 05
+    100116: hair back l 06
+    100118: hair back l 06_end
+    100120: hair back r 01
+    100122: hair back r 02
+    100124: hair back r 03
+    100126: hair back r 04
+    100128: hair back r 05
+    100130: hair back r 06
+    100132: hair back r 06_end
+    100134: hair front l 01
+    100136: hair front l 02
+    100138: hair front l 03
+    100140: hair front l 04
+    100142: hair front l 05
+    100144: hair front l 06
+    100146: hair front l 06_end
+    100148: hair front r 01
+    100150: hair front r 02
+    100152: hair front r 03
+    100154: hair front r 04
+    100156: hair front r 05
+    100158: hair front r 06
+    100160: hair front r 06_end
+    100162: hair mback 01
+    100164: hair mback 02
+    100166: hair mback 03
+    100168: hair mback 04
+    100170: hair mback 05
+    100172: hair mback 06
+    100174: hair mback 06_end
+    100176: hair mfront 01
+    100178: hair mfront 02
+    100180: hair mfront 03
+    100182: hair mfront 04
+    100184: hair mfront 05
+    100186: hair mfront 06
+    100188: hair mfront 06_end
+    100190: hair side l 01
+    100192: hair side l 02
+    100194: hair side l 03
+    100196: hair side l 04
+    100198: hair side l 05
+    100200: hair side l 06
+    100202: hair side l 06_end
+    100204: hair side r 01
+    100206: hair side r 02
+    100208: hair side r 03
+    100210: hair side r 04
+    100212: hair side r 05
+    100214: hair side r 06
+    100216: hair side r 06_end
+    100218: hand l
+    100220: hand r
+    100222: head
+    100224: hip cloth bk l 01
+    100226: hip cloth bk l 02
+    100228: hip cloth bk l 03
+    100230: hip cloth bk l 04
+    100232: hip cloth bk l 05
+    100234: hip cloth bk l 05_end
+    100236: hip cloth bk r 01
+    100238: hip cloth bk r 02
+    100240: hip cloth bk r 03
+    100242: hip cloth bk r 04
+    100244: hip cloth bk r 05
+    100246: hip cloth bk r 05_end
+    100248: hip cloth cb 01
+    100250: hip cloth cb 02
+    100252: hip cloth cb 03
+    100254: hip cloth cb 04
+    100256: hip cloth cb 05
+    100258: hip cloth cb 05_end
+    100260: hip cloth cf 01
+    100262: hip cloth cf 02
+    100264: hip cloth cf 03
+    100266: hip cloth cf 04
+    100268: hip cloth cf 05
+    100270: hip cloth cf 05_end
+    100272: hip cloth fr l 01
+    100274: hip cloth fr l 02
+    100276: hip cloth fr l 03
+    100278: hip cloth fr l 04
+    100280: hip cloth fr l 05
+    100282: hip cloth fr l 05_end
+    100284: hip cloth fr r 01
+    100286: hip cloth fr r 02
+    100288: hip cloth fr r 03
+    100290: hip cloth fr r 04
+    100292: hip cloth fr r 05
+    100294: hip cloth fr r 05_end
+    100296: hip cloth sd l 01
+    100298: hip cloth sd l 02
+    100300: hip cloth sd l 03
+    100302: hip cloth sd l 04
+    100304: hip cloth sd l 05
+    100306: hip cloth sd l 05_end
+    100308: hip cloth sd r 01
+    100310: hip cloth sd r 02
+    100312: hip cloth sd r 03
+    100314: hip cloth sd r 04
+    100316: hip cloth sd r 05
+    100318: hip cloth sd r 05_end
+    100320: ik foot l
+    100322: ik foot l_end
+    100324: ik foot r
+    100326: ik foot r_end
+    100328: ik foot root
+    100330: ik hand gun
+    100332: ik hand l
+    100334: ik hand l_end
+    100336: ik hand r
+    100338: ik hand r_end
+    100340: ik hand root
+    100342: index 01 l
+    100344: index 01 r
+    100346: index 02 l
+    100348: index 02 r
+    100350: index 03 l
+    100352: index 03 l_end
+    100354: index 03 r
+    100356: index 03 r_end
+    100358: jaw
+    100360: lip corner l
+    100362: lip corner l_end
+    100364: lip corner r
+    100366: lip corner r_end
+    100368: lip lower mid
+    100370: lip lower mid_end
+    100372: lip lower outer l
+    100374: lip lower outer l_end
+    100376: lip lower outer r
+    100378: lip lower outer r_end
+    100380: lip upper mid
+    100382: lip upper mid_end
+    100384: lip upper outer l
+    100386: lip upper outer l_end
+    100388: lip upper outer r
+    100390: lip upper outer r_end
+    100392: lowerarm l
+    100394: lowerarm r
+    100396: lowerarm twist 01 l
+    100398: lowerarm twist 01 l_end
+    100400: lowerarm twist 01 r
+    100402: lowerarm twist 01 r_end
+    100404: middle 01 l
+    100406: middle 01 r
+    100408: middle 02 l
+    100410: middle 02 r
+    100412: middle 03 l
+    100414: middle 03 l_end
+    100416: middle 03 r
+    100418: middle 03 r_end
+    100420: neck 01
+    100422: nose bridge
+    100424: nose bridge_end
+    100426: nose tip
+    100428: nose tip_end
+    100430: pelvis
+    100432: pinky 01 l
+    100434: pinky 01 r
+    100436: pinky 02 l
+    100438: pinky 02 r
+    100440: pinky 03 l
+    100442: pinky 03 l_end
+    100444: pinky 03 r
+    100446: pinky 03 r_end
+    100448: ring 01 l
+    100450: ring 01 r
+    100452: ring 02 l
+    100454: ring 02 r
+    100456: ring 03 l
+    100458: ring 03 l_end
+    100460: ring 03 r
+    100462: ring 03 r_end
+    100464: root
+    100466: spine 01
+    100468: spine 02
+    100470: spine 03
+    100472: teeth lower
+    100474: teeth lower_end
+    100476: teeth upper
+    100478: teeth upper_end
+    100480: thigh l
+    100482: thigh r
+    100484: thigh twist 01 l
+    100486: thigh twist 01 l_end
+    100488: thigh twist 01 r
+    100490: thigh twist 01 r_end
+    100492: thumb 01 l
+    100494: thumb 01 r
+    100496: thumb 02 l
+    100498: thumb 02 r
+    100500: thumb 03 l
+    100502: thumb 03 l_end
+    100504: thumb 03 r
+    100506: thumb 03 r_end
+    100508: tongue
+    100510: tongue_end
+    100512: upperarm l
+    100514: upperarm r
+    100516: upperarm twist 01 l
+    100518: upperarm twist 01 l_end
+    100520: upperarm twist 01 r
+    100522: upperarm twist 01 r_end
+    400000: //RootNode
+    400002: 6_mesh0_0.1_16_16
+    400004: 6_mesh1_0.1_16_16
+    400006: 6_mesh2_0.1_16_16
+    400008: 6_mesh3_0.1_16_16
+    400010: 6_mesh7_0.1_16_16
+    400012: 7_mesh4_0.1_16_16
+    400014: 7_mesh5_0.1_16_16
+    400016: 7_mesh6_0.1_16_16
+    400018: Armature
+    400020: ball l
+    400022: ball l_end
+    400024: ball r
+    400026: ball r_end
+    400028: breast l
+    400030: breast l_end
+    400032: breast r
+    400034: breast r_end
+    400036: brow mid
+    400038: brow mid l
+    400040: brow mid l_end
+    400042: brow mid r
+    400044: brow mid r_end
+    400046: brow mid_end
+    400048: brow outer l
+    400050: brow outer l_end
+    400052: brow outer r
+    400054: brow outer r_end
+    400056: calf l
+    400058: calf r
+    400060: calf twist 01 l
+    400062: calf twist 01 l_end
+    400064: calf twist 01 r
+    400066: calf twist 01 r_end
+    400068: cheek inner l
+    400070: cheek inner l_end
+    400072: cheek inner r
+    400074: cheek inner r_end
+    400076: clavicle l
+    400078: clavicle r
+    400080: eye l
+    400082: eye lid lower mid l
+    400084: eye lid lower mid l_end
+    400086: eye lid lower mid r
+    400088: eye lid lower mid r_end
+    400090: eye lid upper mid l
+    400092: eye lid upper mid l_end
+    400094: eye lid upper mid r
+    400096: eye lid upper mid r_end
+    400098: eye r
+    400100: faceAttach
+    400102: foot l
+    400104: foot r
+    400106: hair back l 01
+    400108: hair back l 02
+    400110: hair back l 03
+    400112: hair back l 04
+    400114: hair back l 05
+    400116: hair back l 06
+    400118: hair back l 06_end
+    400120: hair back r 01
+    400122: hair back r 02
+    400124: hair back r 03
+    400126: hair back r 04
+    400128: hair back r 05
+    400130: hair back r 06
+    400132: hair back r 06_end
+    400134: hair front l 01
+    400136: hair front l 02
+    400138: hair front l 03
+    400140: hair front l 04
+    400142: hair front l 05
+    400144: hair front l 06
+    400146: hair front l 06_end
+    400148: hair front r 01
+    400150: hair front r 02
+    400152: hair front r 03
+    400154: hair front r 04
+    400156: hair front r 05
+    400158: hair front r 06
+    400160: hair front r 06_end
+    400162: hair mback 01
+    400164: hair mback 02
+    400166: hair mback 03
+    400168: hair mback 04
+    400170: hair mback 05
+    400172: hair mback 06
+    400174: hair mback 06_end
+    400176: hair mfront 01
+    400178: hair mfront 02
+    400180: hair mfront 03
+    400182: hair mfront 04
+    400184: hair mfront 05
+    400186: hair mfront 06
+    400188: hair mfront 06_end
+    400190: hair side l 01
+    400192: hair side l 02
+    400194: hair side l 03
+    400196: hair side l 04
+    400198: hair side l 05
+    400200: hair side l 06
+    400202: hair side l 06_end
+    400204: hair side r 01
+    400206: hair side r 02
+    400208: hair side r 03
+    400210: hair side r 04
+    400212: hair side r 05
+    400214: hair side r 06
+    400216: hair side r 06_end
+    400218: hand l
+    400220: hand r
+    400222: head
+    400224: hip cloth bk l 01
+    400226: hip cloth bk l 02
+    400228: hip cloth bk l 03
+    400230: hip cloth bk l 04
+    400232: hip cloth bk l 05
+    400234: hip cloth bk l 05_end
+    400236: hip cloth bk r 01
+    400238: hip cloth bk r 02
+    400240: hip cloth bk r 03
+    400242: hip cloth bk r 04
+    400244: hip cloth bk r 05
+    400246: hip cloth bk r 05_end
+    400248: hip cloth cb 01
+    400250: hip cloth cb 02
+    400252: hip cloth cb 03
+    400254: hip cloth cb 04
+    400256: hip cloth cb 05
+    400258: hip cloth cb 05_end
+    400260: hip cloth cf 01
+    400262: hip cloth cf 02
+    400264: hip cloth cf 03
+    400266: hip cloth cf 04
+    400268: hip cloth cf 05
+    400270: hip cloth cf 05_end
+    400272: hip cloth fr l 01
+    400274: hip cloth fr l 02
+    400276: hip cloth fr l 03
+    400278: hip cloth fr l 04
+    400280: hip cloth fr l 05
+    400282: hip cloth fr l 05_end
+    400284: hip cloth fr r 01
+    400286: hip cloth fr r 02
+    400288: hip cloth fr r 03
+    400290: hip cloth fr r 04
+    400292: hip cloth fr r 05
+    400294: hip cloth fr r 05_end
+    400296: hip cloth sd l 01
+    400298: hip cloth sd l 02
+    400300: hip cloth sd l 03
+    400302: hip cloth sd l 04
+    400304: hip cloth sd l 05
+    400306: hip cloth sd l 05_end
+    400308: hip cloth sd r 01
+    400310: hip cloth sd r 02
+    400312: hip cloth sd r 03
+    400314: hip cloth sd r 04
+    400316: hip cloth sd r 05
+    400318: hip cloth sd r 05_end
+    400320: ik foot l
+    400322: ik foot l_end
+    400324: ik foot r
+    400326: ik foot r_end
+    400328: ik foot root
+    400330: ik hand gun
+    400332: ik hand l
+    400334: ik hand l_end
+    400336: ik hand r
+    400338: ik hand r_end
+    400340: ik hand root
+    400342: index 01 l
+    400344: index 01 r
+    400346: index 02 l
+    400348: index 02 r
+    400350: index 03 l
+    400352: index 03 l_end
+    400354: index 03 r
+    400356: index 03 r_end
+    400358: jaw
+    400360: lip corner l
+    400362: lip corner l_end
+    400364: lip corner r
+    400366: lip corner r_end
+    400368: lip lower mid
+    400370: lip lower mid_end
+    400372: lip lower outer l
+    400374: lip lower outer l_end
+    400376: lip lower outer r
+    400378: lip lower outer r_end
+    400380: lip upper mid
+    400382: lip upper mid_end
+    400384: lip upper outer l
+    400386: lip upper outer l_end
+    400388: lip upper outer r
+    400390: lip upper outer r_end
+    400392: lowerarm l
+    400394: lowerarm r
+    400396: lowerarm twist 01 l
+    400398: lowerarm twist 01 l_end
+    400400: lowerarm twist 01 r
+    400402: lowerarm twist 01 r_end
+    400404: middle 01 l
+    400406: middle 01 r
+    400408: middle 02 l
+    400410: middle 02 r
+    400412: middle 03 l
+    400414: middle 03 l_end
+    400416: middle 03 r
+    400418: middle 03 r_end
+    400420: neck 01
+    400422: nose bridge
+    400424: nose bridge_end
+    400426: nose tip
+    400428: nose tip_end
+    400430: pelvis
+    400432: pinky 01 l
+    400434: pinky 01 r
+    400436: pinky 02 l
+    400438: pinky 02 r
+    400440: pinky 03 l
+    400442: pinky 03 l_end
+    400444: pinky 03 r
+    400446: pinky 03 r_end
+    400448: ring 01 l
+    400450: ring 01 r
+    400452: ring 02 l
+    400454: ring 02 r
+    400456: ring 03 l
+    400458: ring 03 l_end
+    400460: ring 03 r
+    400462: ring 03 r_end
+    400464: root
+    400466: spine 01
+    400468: spine 02
+    400470: spine 03
+    400472: teeth lower
+    400474: teeth lower_end
+    400476: teeth upper
+    400478: teeth upper_end
+    400480: thigh l
+    400482: thigh r
+    400484: thigh twist 01 l
+    400486: thigh twist 01 l_end
+    400488: thigh twist 01 r
+    400490: thigh twist 01 r_end
+    400492: thumb 01 l
+    400494: thumb 01 r
+    400496: thumb 02 l
+    400498: thumb 02 r
+    400500: thumb 03 l
+    400502: thumb 03 l_end
+    400504: thumb 03 r
+    400506: thumb 03 r_end
+    400508: tongue
+    400510: tongue_end
+    400512: upperarm l
+    400514: upperarm r
+    400516: upperarm twist 01 l
+    400518: upperarm twist 01 l_end
+    400520: upperarm twist 01 r
+    400522: upperarm twist 01 r_end
+    4300000: 7_mesh6_0.1_16_16
+    4300002: 7_mesh5_0.1_16_16
+    4300004: 7_mesh4_0.1_16_16
+    4300006: 6_mesh7_0.1_16_16
+    4300008: 6_mesh3_0.1_16_16
+    4300010: 6_mesh2_0.1_16_16
+    4300012: 6_mesh1_0.1_16_16
+    4300014: 6_mesh0_0.1_16_16
+    9500000: //RootNode
+    13700000: 6_mesh0_0.1_16_16
+    13700002: 6_mesh1_0.1_16_16
+    13700004: 6_mesh2_0.1_16_16
+    13700006: 6_mesh3_0.1_16_16
+    13700008: 6_mesh7_0.1_16_16
+    13700010: 7_mesh4_0.1_16_16
+    13700012: 7_mesh5_0.1_16_16
+    13700014: 7_mesh6_0.1_16_16
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

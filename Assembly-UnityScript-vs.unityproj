@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{D5BA68CB-6F57-CE70-D530-F7C91BE45C4C}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_WEBPLAYER;WEBPLUG;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_GENERICS;ENABLE_SUBSTANCE;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_3_1;UNITY_4_3;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Drown.js" />
+     <Compile Include="Assets\Hope\MouseNotLock.js" />
+     <Compile Include="Assets\Hope\ResultScreen.js" />
+     <Compile Include="Assets\Hope\SoundEffect.js" />
+     <Compile Include="Assets\Hope\Timekeeper.js" />
+     <Compile Include="Assets\Hope\andrea.js" />
+     <Compile Include="Assets\Hope\aprilvoice.js" />
+     <Compile Include="Assets\Hope\cindy.js" />
+     <Compile Include="Assets\Hope\nancy.js" />
+     <Compile Include="Assets\Key\Keybling.js" />
+     <Compile Include="Assets\Key\andreaKey.js" />
+     <Compile Include="Assets\Key\aprilKey.js" />
+     <Compile Include="Assets\Key\closetKey.js" />
+     <Compile Include="Assets\Key\musicbox.js" />
+     <Compile Include="Assets\Key\musicboxPlace.js" />
+     <Compile Include="Assets\Key\nancycindyclosetKey.js" />
+     <Compile Include="Assets\Key\undergroundKey.js" />
+     <Compile Include="Assets\Missing Person\MissingPerson.js" />
+     <Compile Include="Assets\Note\Note1.js" />
+     <Compile Include="Assets\Note\Note2.js" />
+     <Compile Include="Assets\Note\Note3.js" />
+     <Compile Include="Assets\Note\Note4.js" />
+     <Compile Include="Assets\Note\Note5.js" />
+     <Compile Include="Assets\Player\Bullet.js" />
+     <Compile Include="Assets\Player\FlashLight.js" />
+     <Compile Include="Assets\Player\Gun.js" />
+     <Compile Include="Assets\Player\Map.js" />
+     <Compile Include="Assets\Player\MouseLock.js" />
+     <Compile Include="Assets\Prologue\GhostController3.js" />
+     <Compile Include="Assets\Prologue\Prologue1.js" />
+     <Compile Include="Assets\Prologue\Prologue2.js" />
+     <Compile Include="Assets\Prologue\Prologue3.js" />
+     <Compile Include="Assets\Prologue\Scream.js" />
+     <Compile Include="Assets\Prologue\prologue4.js" />
+     <Compile Include="Assets\Prologue\subtitle.js" />
+     <Compile Include="Assets\Start&amp;End\end1.js" />
+     <Compile Include="Assets\Start&amp;End\end2.js" />
+     <Compile Include="Assets\Start&amp;End\end3.js" />
+     <Compile Include="Assets\Start&amp;End\end4.js" />
+     <Compile Include="Assets\Start&amp;End\select.js" />
+     <Compile Include="Assets\Start&amp;End\start.js" />
+     <Compile Include="Assets\andrea&apos;s room\Clock.js" />
+     <Compile Include="Assets\andrea&apos;s room\key paper.js" />
+     <Compile Include="Assets\april&apos;s room\musicbox paper.js" />
+     <Compile Include="Assets\car.js" />
+     <Compile Include="Assets\door\AndreaOpendoor.js" />
+     <Compile Include="Assets\door\AprilDooropen.js" />
+     <Compile Include="Assets\door\ClosetDoorOpen1_2.js" />
+     <Compile Include="Assets\door\ClosetDoorOpen2_2.js" />
+     <Compile Include="Assets\door\ClosetDooropen1.js" />
+     <Compile Include="Assets\door\ClosetDooropen2.js" />
+     <Compile Include="Assets\door\FrontDoor.js" />
+     <Compile Include="Assets\door\FrontDoor2.js" />
+     <Compile Include="Assets\door\NancyDoorOpen.js" />
+     <Compile Include="Assets\door\RoomDoor.js" />
+     <Compile Include="Assets\door\RoomDoor2.js" />
+     <Compile Include="Assets\door\UndergroundDoorOpen.js" />
+     <Compile Include="Assets\living room\hair.js" />
+     <Compile Include="Assets\nancy&amp;cindy&apos;s room\Bed.js" />
+     <Compile Include="Assets\underground\Chair.js" />
+     <Compile Include="Assets\underground\ghostController.js" />
+     <Compile Include="Assets\underground\ghostController2.js" />
+     <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\Standard Assets\Water (Pro Only)\Sources\Shaders\FX-Water.shader" />
+     <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\WaterInclude.cginc" />
+     <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-Water4.shader" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
+      <Project>{CBD03815-2B5F-B65F-2F26-DF3648F279D7}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

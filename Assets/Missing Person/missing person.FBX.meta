@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 4ef440f1cdc96494aa6aa4cee6fc8e1e
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: 22_boots_0.4_20_1
+    100002: 22_jacket_0.4_20_1
+    100004: 22_jeans_0.3_20_1
+    100006: 24_eyes_1_0_0
+    100008: 24_hair_0.2_0_0
+    100010: 24_hands_0.2_0_0
+    100012: 24_head_0.2_0_0
+    100014: 24_shirt_0.3_0_0
+    100016: 24_teeth_0.8_0_0
+    100018: 27_ref_0.8_0_0
+    100020: arm left elbow
+    100022: arm left finger 1a
+    100024: arm left finger 1b
+    100026: arm left finger 1c
+    100028: arm left finger 1c_end
+    100030: arm left finger 2a
+    100032: arm left finger 2b
+    100034: arm left finger 2c
+    100036: arm left finger 2c_end
+    100038: arm left finger 3a
+    100040: arm left finger 3b
+    100042: arm left finger 3c
+    100044: arm left finger 3c_end
+    100046: arm left finger 4a
+    100048: arm left finger 4b
+    100050: arm left finger 4c
+    100052: arm left finger 4c_end
+    100054: arm left finger 5a
+    100056: arm left finger 5b
+    100058: arm left finger 5c
+    100060: arm left finger 5c_end
+    100062: arm left roll forearm
+    100064: arm left roll shoulder
+    100066: arm left shoulder 1
+    100068: arm left shoulder 2
+    100070: arm left wrist
+    100072: arm right elbow
+    100074: arm right finger 1a
+    100076: arm right finger 1b
+    100078: arm right finger 1c
+    100080: arm right finger 1c_end
+    100082: arm right finger 2a
+    100084: arm right finger 2b
+    100086: arm right finger 2c
+    100088: arm right finger 2c_end
+    100090: arm right finger 3a
+    100092: arm right finger 3b
+    100094: arm right finger 3c
+    100096: arm right finger 3c_end
+    100098: arm right finger 4a
+    100100: arm right finger 4b
+    100102: arm right finger 4c
+    100104: arm right finger 4c_end
+    100106: arm right finger 5a
+    100108: arm right finger 5b
+    100110: arm right finger 5c
+    100112: arm right finger 5c_end
+    100114: arm right roll forearm
+    100116: arm right roll shoulder
+    100118: arm right shoulder 1
+    100120: arm right shoulder 2
+    100122: arm right wrist
+    100124: Armature
+    100126: head eyeball left
+    100128: head eyeball left_end
+    100130: head eyeball right
+    100132: head eyeball right_end
+    100134: head eyebrow left 1
+    100136: head eyebrow left 1_end
+    100138: head eyebrow left 2
+    100140: head eyebrow left 2_end
+    100142: head eyebrow right 1
+    100144: head eyebrow right 1_end
+    100146: head eyebrow right 2
+    100148: head eyebrow right 2_end
+    100150: head eyelid lower left
+    100152: head eyelid lower left_end
+    100154: head eyelid lower right
+    100156: head eyelid lower right_end
+    100158: head eyelid upper left
+    100160: head eyelid upper left_end
+    100162: head eyelid upper right
+    100164: head eyelid upper right_end
+    100166: head jaw
+    100168: head lip lower left
+    100170: head lip lower left_end
+    100172: head lip lower right
+    100174: head lip lower right_end
+    100176: head lip upper left
+    100178: head lip upper left_end
+    100180: head lip upper right
+    100182: head lip upper right_end
+    100184: head mouth corner left
+    100186: head mouth corner left_end
+    100188: head mouth corner right
+    100190: head mouth corner right_end
+    100192: head neck lower
+    100194: head neck upper
+    100196: leg left ankle
+    100198: leg left knee
+    100200: leg left thigh
+    100202: leg left toes
+    100204: leg right ankle
+    100206: leg right knee
+    100208: leg right thigh
+    100210: leg right toes
+    100212: //RootNode
+    100214: pelvis
+    100216: root ground
+    100218: root hips
+    100220: spine lower
+    100222: spine upper
+    100224: unused-232209914
+    100226: unused-232209914_end
+    100228: unused-314128535
+    100230: unused-314128535_end
+    100232: unused-459022022
+    100234: unused-459022022_end
+    100236: unused-668409481
+    100238: unused-668409481_end
+    100240: unused-816363120
+    100242: unused-816363120_end
+    100244: unused-994173224
+    100246: unused-994173224_end
+    100248: unused-995148661
+    100250: unused-995148661_end
+    100252: unused0
+    100254: unused1033562536
+    100256: unused1033562536_end
+    100258: unused1598228764
+    100260: unused1598228764_end
+    100262: unused743623600
+    400000: 22_boots_0.4_20_1
+    400002: 22_jacket_0.4_20_1
+    400004: 22_jeans_0.3_20_1
+    400006: 24_eyes_1_0_0
+    400008: 24_hair_0.2_0_0
+    400010: 24_hands_0.2_0_0
+    400012: 24_head_0.2_0_0
+    400014: 24_shirt_0.3_0_0
+    400016: 24_teeth_0.8_0_0
+    400018: 27_ref_0.8_0_0
+    400020: arm left elbow
+    400022: arm left finger 1a
+    400024: arm left finger 1b
+    400026: arm left finger 1c
+    400028: arm left finger 1c_end
+    400030: arm left finger 2a
+    400032: arm left finger 2b
+    400034: arm left finger 2c
+    400036: arm left finger 2c_end
+    400038: arm left finger 3a
+    400040: arm left finger 3b
+    400042: arm left finger 3c
+    400044: arm left finger 3c_end
+    400046: arm left finger 4a
+    400048: arm left finger 4b
+    400050: arm left finger 4c
+    400052: arm left finger 4c_end
+    400054: arm left finger 5a
+    400056: arm left finger 5b
+    400058: arm left finger 5c
+    400060: arm left finger 5c_end
+    400062: arm left roll forearm
+    400064: arm left roll shoulder
+    400066: arm left shoulder 1
+    400068: arm left shoulder 2
+    400070: arm left wrist
+    400072: arm right elbow
+    400074: arm right finger 1a
+    400076: arm right finger 1b
+    400078: arm right finger 1c
+    400080: arm right finger 1c_end
+    400082: arm right finger 2a
+    400084: arm right finger 2b
+    400086: arm right finger 2c
+    400088: arm right finger 2c_end
+    400090: arm right finger 3a
+    400092: arm right finger 3b
+    400094: arm right finger 3c
+    400096: arm right finger 3c_end
+    400098: arm right finger 4a
+    400100: arm right finger 4b
+    400102: arm right finger 4c
+    400104: arm right finger 4c_end
+    400106: arm right finger 5a
+    400108: arm right finger 5b
+    400110: arm right finger 5c
+    400112: arm right finger 5c_end
+    400114: arm right roll forearm
+    400116: arm right roll shoulder
+    400118: arm right shoulder 1
+    400120: arm right shoulder 2
+    400122: arm right wrist
+    400124: Armature
+    400126: head eyeball left
+    400128: head eyeball left_end
+    400130: head eyeball right
+    400132: head eyeball right_end
+    400134: head eyebrow left 1
+    400136: head eyebrow left 1_end
+    400138: head eyebrow left 2
+    400140: head eyebrow left 2_end
+    400142: head eyebrow right 1
+    400144: head eyebrow right 1_end
+    400146: head eyebrow right 2
+    400148: head eyebrow right 2_end
+    400150: head eyelid lower left
+    400152: head eyelid lower left_end
+    400154: head eyelid lower right
+    400156: head eyelid lower right_end
+    400158: head eyelid upper left
+    400160: head eyelid upper left_end
+    400162: head eyelid upper right
+    400164: head eyelid upper right_end
+    400166: head jaw
+    400168: head lip lower left
+    400170: head lip lower left_end
+    400172: head lip lower right
+    400174: head lip lower right_end
+    400176: head lip upper left
+    400178: head lip upper left_end
+    400180: head lip upper right
+    400182: head lip upper right_end
+    400184: head mouth corner left
+    400186: head mouth corner left_end
+    400188: head mouth corner right
+    400190: head mouth corner right_end
+    400192: head neck lower
+    400194: head neck upper
+    400196: leg left ankle
+    400198: leg left knee
+    400200: leg left thigh
+    400202: leg left toes
+    400204: leg right ankle
+    400206: leg right knee
+    400208: leg right thigh
+    400210: leg right toes
+    400212: //RootNode
+    400214: pelvis
+    400216: root ground
+    400218: root hips
+    400220: spine lower
+    400222: spine upper
+    400224: unused-232209914
+    400226: unused-232209914_end
+    400228: unused-314128535
+    400230: unused-314128535_end
+    400232: unused-459022022
+    400234: unused-459022022_end
+    400236: unused-668409481
+    400238: unused-668409481_end
+    400240: unused-816363120
+    400242: unused-816363120_end
+    400244: unused-994173224
+    400246: unused-994173224_end
+    400248: unused-995148661
+    400250: unused-995148661_end
+    400252: unused0
+    400254: unused1033562536
+    400256: unused1033562536_end
+    400258: unused1598228764
+    400260: unused1598228764_end
+    400262: unused743623600
+    4300000: 27_ref_0.8_0_0
+    4300002: 24_teeth_0.8_0_0
+    4300004: 24_shirt_0.3_0_0
+    4300006: 24_head_0.2_0_0
+    4300008: 24_hands_0.2_0_0
+    4300010: 24_hair_0.2_0_0
+    4300012: 24_eyes_1_0_0
+    4300014: 22_jeans_0.3_20_1
+    4300016: 22_jacket_0.4_20_1
+    4300018: 22_boots_0.4_20_1
+    9500000: //RootNode
+    13700000: 22_boots_0.4_20_1
+    13700002: 22_jacket_0.4_20_1
+    13700004: 22_jeans_0.3_20_1
+    13700006: 24_eyes_1_0_0
+    13700008: 24_hair_0.2_0_0
+    13700010: 24_hands_0.2_0_0
+    13700012: 24_head_0.2_0_0
+    13700014: 24_shirt_0.3_0_0
+    13700016: 24_teeth_0.8_0_0
+    13700018: 27_ref_0.8_0_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
